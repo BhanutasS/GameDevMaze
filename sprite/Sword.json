@@ -1,0 +1,14 @@
+{
+    "spriteSheetURL": "/Users/bsavanachai/Downloads/zelda/graphics/Tiny16-ExpandedMaleSprites.png",
+    "type":"none",
+    "size":[16,16],
+    "sprites":[
+        {
+            "name":"sword",
+            "x":64,
+            "y":16,
+            "scalefactor":3,
+            "colorKey":-1
+	   }
+]
+}

@@ -1,0 +1,49 @@
+{
+    "spriteSheetURL": "./graphics/Dice.jpeg",
+    "type":"none",
+    "size":[32,32],
+    "sprites":[
+        {
+            "name":"dice_0",
+            "x":150,
+            "y":80,
+            "scalefactor":3,
+            "colorKey":-1
+	   },
+        {
+            "name":"dice_1",
+            "x":16,
+            "y":0,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"dice_2",
+            "x":32,
+            "y":0,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"dice_3",
+            "x":48,
+            "y":0,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"dice_4",
+            "x":64,
+            "y":0,
+            "scalefactor":3,
+            "colorKey":-1
+        },
+        {
+            "name":"dice_5",
+            "x":80,
+            "y":0,
+            "scalefactor":3,
+            "colorKey":-1
+        }
+]
+}
